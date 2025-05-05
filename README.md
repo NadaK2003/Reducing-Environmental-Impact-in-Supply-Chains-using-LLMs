@@ -37,29 +37,21 @@ This project introduces a hybrid system that combines time series forecasting wi
   Used to explore economic factors that may correlate with emissions and fuel patterns.
 
 ---
-
 ## Exploratory Data Analysis (EDA)
-
 ### Boxplot of Carbon Emissions
-Shows the spread and outliers in carbon emission values.
+Shows the spread and outliers in carbon emission values.  
 ![Boxplot of Carbon Emissions](images/boxplot_carbon_emissions.jpeg)
 
----
-
 ### CO₂ Emissions Over Time
-Illustrates the historical trend of emissions from the 1970s to 2015.
+Illustrates the historical trend of emissions from the 1970s to 2015.  
 ![CO2 Emissions Over Time](images/co2_emissions_over_time.jpeg)
 
----
-
 ### Distribution of Average Monthly Income
-Explores the spread of income levels and its pattern across the dataset.
+Explores the spread of income levels and its pattern across the dataset.  
 ![Average Monthly Income](images/income_distribution.jpeg)
 
----
-
 ### Fuel Consumption vs. CO₂ Emissions
-Strong correlation shown between fuel use and CO₂ emissions, influenced by weather and fuel type.
+Strong correlation shown between fuel use and CO₂ emissions, influenced by weather and fuel type.  
 ![Fuel vs CO2 Emissions](images/fuel_vs_emission_weather.jpeg)
 
 ---
