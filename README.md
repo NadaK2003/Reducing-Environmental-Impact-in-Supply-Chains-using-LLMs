@@ -50,16 +50,6 @@ This project introduces a hybrid system that combines time series forecasting wi
 
 ---
 
-## Sample Visuals
-
-_Add screenshots or chart outputs here (e.g. emissions forecast, fuel trends)_
-
-| Emission Forecast | Fuel Efficiency |
-|-------------------|-----------------|
-| ![emission](images/forecast.png) | ![fuel](images/fuel_eff.png) |
-
----
-
 ## Technologies Used
 
 - Python  
